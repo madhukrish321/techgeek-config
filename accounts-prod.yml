@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Hey, welcome to TechGeek Bank accounts related webhook APIs"
+  message: "Hey, welcome to TechGeek Bank accounts related production APIs"
   contactDetails:
     name: "Madhu Krishna - Product Owner"
     email: "{cipher}69190c99509d6426e49a50670618a3c1a79047db81620fa8b983dfe3799d6197dc7351bdbcad91450d84bb940b07f7b6"
